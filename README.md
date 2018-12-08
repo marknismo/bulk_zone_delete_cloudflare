@@ -12,7 +12,7 @@ Helper script to bulk delete zones on CF
 
 
 # Usage
-- Optional: create a directory/folder to run the command in
+- place zones to be deleted in a text file
 - chmod u+x bulk_delete.sh
 - run "./bulk_delete.sh"
 
@@ -22,4 +22,5 @@ Helper script to bulk delete zones on CF
 
 
 Screenshot of what it looks like on Mac OS
+![screenshot](https://raw.githubusercontent.com/marknismo/bulk_zone_delete_cloudflare/master/zones.jpg)
 ![screenshot](https://raw.githubusercontent.com/marknismo/bulk_zone_delete_cloudflare/master/bulk_delete.jpg)
